@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RandomMineral">
+    <output-path>$USER_HOME$/Documents/Minecraft_1.15.2_Server/plugins</output-path>
+    <root id="archive" name="RandomMineral.jar">
+      <element id="module-output" name="RandomMineral" />
+      <element id="file-copy" path="$PROJECT_DIR$/block.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

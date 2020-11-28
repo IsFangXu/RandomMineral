@@ -1,0 +1,9 @@
+#單位為 %
+#例如: 10.0=10% 、 15.5=15.5%
+Probability:
+  diamond: 1.0
+  gold: 2.0
+  iron: 3.0
+  redstone: 4.0
+  lapis: 5.0
+  stone: 6.0
